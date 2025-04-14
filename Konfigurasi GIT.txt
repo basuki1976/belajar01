@@ -1,0 +1,4 @@
+Konfigurasi Awal GIT
+git config --global user.name "ranto"
+git config --global user.email rantobasuki@gmail.com
+git config --global init.defaultBranch main
